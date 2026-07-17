@@ -1,0 +1,12 @@
+public class main{
+    public static voidmain(stringargs[])
+    pattern 1(n:4)
+}
+static void pattern(int n)
+for( int row=1;row<=n;row++)
+{
+    for (int col=1;col<=row;col++){
+        system.out.println("*");
+          }
+          system.out.println();
+}

@@ -2,9 +2,9 @@ import AboutImg from '../assets/About.png.png';
 
 export default function About () {
     const config = {
-        line1: 'Hi, I am Gayathri K - a passionate and curious engineering student specializing in Artificial Intelligence and Data Science. Currently in my pre-final year at Arunai Engineering College, I have developed a strong foundation in AI, machine learning, and software development.',
-        line2: '💼 Proficient in Excel, Power BI, SQL, Canva, Tableau, Google Sheets, and basic Python for data analysis, visualization, reporting, and design.',
-        line3: '🛠 Backend Skills: Proficient in Java for backend development and logic building.',
+        line1: 'Hi, I am Gayathri K, an Artificial Intelligence and Data Science graduate passionate about building intelligent, data-driven solutions. I enjoy applying Machine Learning, Data Analytics, and Python to solve real-world business problems and creating user-friendly applications that make an impact.',
+        line2: '🎯 Technical Skills : Python, SQL, Machine Learning, Deep Learning, Power BI, Pandas, NumPy, Data Visualization, FastAPI, React, and Excel.',
+        line3: '💻 Projects & Development : Experienced in developing AI-powered applications, interactive dashboards, and full-stack solutions using modern technologies with a focus on performance and usability.',
     }
     return <section className='flex flex-col md:flex-row bg-secondary px-5 py-20 min-h-screen' id='about'>
         <div className='py-5 md:w-1/2'>

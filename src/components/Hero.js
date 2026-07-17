@@ -5,7 +5,7 @@ import { AiOutlineGithub } from "react-icons/ai";
 
 export default function Hero() {
     const config = {
-        subtitle: 'Im a Full-stack developer and Designer',
+        subtitle: 'AI & Data Science Enthusiast',
         social: {
             twitter: 'https://x.com/eminent_lass?t=tZT0b6TrKe8ZeAALkPwPyw&s=09',
             Linkedin: 'https://www.linkedin.com/in/gayathri-k-ba4698299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',

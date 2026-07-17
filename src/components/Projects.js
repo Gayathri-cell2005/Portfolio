@@ -9,25 +9,25 @@ import powerbiImg from '../assets/power bi dashboard.jpg';
 
 const projects = [
   {
-    title: 'Furniture E-commerce Website',
-    description: 'Furniture website built using Flutter.',
+    title: 'Explainable AI-Based Anti-Money Laundering and Transaction Risk Analysis with Blockchain Auditability',
+    description: 'This project combines Artificial Intelligence, Explainable AI (XAI), and Blockchain to build a transparent and secure Anti-Money Laundering (AML) system.',
     image: ecommerceImg,
-    demo: 'https://your-live-demo-link.com/ecommerce',
-    github: 'https://github.com/yourname/ecommerce-project',
+    demo: 'https://aml-shield-ten.vercel.app/',
+    github: 'https://github.com/Gayathri-cell2005/Aml-Shield',
   },
   {
-    title: 'Face Cream Design',
-    description: 'Canva-based design for a cosmetic product.',
+    title: 'Real-Time Sales Intelligence Dashboard',
+    description: 'Developed a real-time sales analytics dashboard using Python, SQL, Power BI, and Streamlit to monitor key business metrics, visualize sales trends, and generate actionable insights for data-driven decision-making.',
     image: canvaImg,
-    demo: 'https://your-live-demo-link.com/cream',
-    github: 'https://github.com/yourname/cream-design',
+    demo: 'https://sales-intelligence-dashboard.streamlit.app',
+    github: 'https://github.com/Gayathri-cell2005/Sales-Intelligence-Dashboard',
   },
   {
     title: 'Portfolio Website',
     description: 'Personal portfolio built using React JS and Tailwind CSS.',
     image: portfolioImg,
-    demo: 'https://your-live-demo-link.com/portfolio',
-    github: 'https://github.com/yourname/portfolio',
+    demo: 'https://portfolio-nine-tau-49.vercel.app/',
+    github: 'https://github.com/Gayathri-cell2005/Portfolio',
   },
   {
     title: 'Excel Sales Dashboard',
