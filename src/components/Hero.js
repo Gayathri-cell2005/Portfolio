@@ -24,6 +24,6 @@ export default function Hero() {
                  <a href={config.social.github} className='pr-5 hover:text-white'><AiOutlineGithub size={40}/></a>
              </div>
         </div>
-        <img className='md:w-1/3' src={HeroImg} />
+        <img className="md:w-1/3" src={HeroImg} alt="Profile" />
     </section>
 }
